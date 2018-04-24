@@ -13,3 +13,5 @@ This is a mini game.
 |:---|:---|:---|:---| 
 |ver 1.00|2017/04/17|とりあえず動く||  
 ||2018/04/17|制作開始||
+
+https://docs.google.com/document/d/1YrEpPY8j6reNAG8iPdywHWGiovCxh7t1jaN79S6HNBg/edit?usp=sharing
